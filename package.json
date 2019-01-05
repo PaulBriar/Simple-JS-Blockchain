@@ -1,0 +1,19 @@
+{
+  "name": "savjeeblockchain",
+  "version": "1.0.0",
+  "description": "Simple Savjee Blockchain written in JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulBriar/Simple-JS-Blockchain.git"
+  },
+  "author": "Paul Briar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulBriar/Simple-JS-Blockchain/issues"
+  },
+  "homepage": "https://github.com/PaulBriar/Simple-JS-Blockchain#readme"
+}
