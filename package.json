@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PaulBriar/Simple-JS-Blockchain/issues"
   },
-  "homepage": "https://github.com/PaulBriar/Simple-JS-Blockchain#readme"
+  "homepage": "https://github.com/PaulBriar/Simple-JS-Blockchain#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
 }
